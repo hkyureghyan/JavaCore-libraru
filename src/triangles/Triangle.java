@@ -17,6 +17,7 @@ public class Triangle {
             System.out.println();
         }
         System.out.println();
+        System.out.println();
         /**
          * Գրել կոդ, որը կպատկերի այս եռանկյունը։
          *
